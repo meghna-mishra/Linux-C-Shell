@@ -1,0 +1,20 @@
+make
+./a.out
+[A
+gedit &
+jobs
+cd ..
+clear
+clear
+clear
+clear
+clear
+clear
+clear
+clear
+cd hhh
+pwd
+echo Hi Idiot
+ls
+ls ..
+clear
